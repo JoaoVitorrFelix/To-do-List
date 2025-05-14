@@ -23,7 +23,7 @@ Clone o repositório:
 bash
 Copy
 Edit
-git clone https://github.com/seu-usuario/todo-tkinter.git
+git clone https://github.com/seu-usuario/...
 cd todo-tkinter
 Execute o projeto:
 
@@ -31,4 +31,5 @@ bash
 Copy
 Edit
 python todo.py
+
 Nenhuma dependência externa é necessária além do Python.
